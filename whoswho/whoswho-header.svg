@@ -9,9 +9,9 @@
    id="svg5"
    inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
    sodipodi:docname="whoswho-header.svg"
-   inkscape:export-filename="/media/ujjwal/Elements/code/repos/whoswho/public/logo-dark-theme.png"
-   inkscape:export-xdpi="15.932673"
-   inkscape:export-ydpi="15.932673"
+   inkscape:export-filename="/media/ujjwal/Elements/code/repos/logos/whoswho/whoswho-header.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.138"
-     inkscape:cx="750"
-     inkscape:cy="321.1775"
+     inkscape:zoom="0.569"
+     inkscape:cx="774.1652"
+     inkscape:cy="378.73462"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -50,6 +50,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16269"
+       width="396.875"
+       height="132.29167"
+       x="2.4999999e-06"
+       y="-1.7097982e-06" />
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:'Dela Gothic One';-inkscape-font-specification:'Dela Gothic One';stroke-width:0.264583"
@@ -68,14 +75,14 @@
          id="tspan7009" /></text>
     <text
        xml:space="preserve"
-       style="font-size:35.5931px;line-height:1.25;font-family:'Dela Gothic One';-inkscape-font-specification:'Dela Gothic One';stroke-width:0.264583"
-       x="118.61687"
+       style="font-size:35.5931px;line-height:1.25;font-family:'Dela Gothic One';-inkscape-font-specification:'Dela Gothic One';stroke-width:0.0264583;stroke-miterlimit:4;stroke-dasharray:none"
+       x="115.44188"
        y="77.019524"
        id="text1369"><tspan
          sodipodi:role="line"
          id="tspan1367"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade';stroke-width:0.264583"
-         x="118.61687"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bungee Shade';-inkscape-font-specification:'Bungee Shade';stroke:#ffffff;stroke-width:0.0264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="115.44188"
          y="77.019524">Who's Who?</tspan></text>
     <g
        id="g8667">
