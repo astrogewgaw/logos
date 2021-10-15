@@ -3,7 +3,7 @@
 # logos
 
 <br/><br/>
-<img src = "./header.svg" alt="logos" align="center">
+<img src = "./rasters/logos.png" alt="logos" align="center">
 <br/><br/>
 
 ![License][license]
