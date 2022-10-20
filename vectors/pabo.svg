@@ -27,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.2900433"
-     inkscape:cx="-1229.1268"
-     inkscape:cy="856.76864"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:zoom="0.574"
+     inkscape:cx="250"
+     inkscape:cy="750"
+     inkscape:window-width="1910"
+     inkscape:window-height="1070"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -76,22 +76,11 @@
        height="132.29167"
        x="-396.875"
        y="-8.7646487e-07"
-       transform="rotate(-90)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.4896px;font-family:'Kirang Haerang';-inkscape-font-specification:'Kirang Haerang';text-align:center;text-anchor:middle;opacity:1;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       x="-180.81412"
-       y="126.25532"
-       id="text14792"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan14790"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:scientifica;-inkscape-font-specification:'scientifica Medium';text-align:start;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         x="-180.81412"
-         y="126.25532">Binary parsing for dummies!</tspan></text>
+       transform="rotate(-90)"
+       sodipodi:insensitive="true" />
     <g
        id="g16951"
-       transform="translate(-0.00141536,-16.06753)">
+       transform="translate(-0.00141748,-16.06753)">
       <g
          aria-label="바 보"
          id="g16926"
@@ -121,17 +110,61 @@
            id="path16437" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.7651px;font-family:'Kirang Haerang';-inkscape-font-specification:'Kirang Haerang';text-align:center;text-anchor:middle;opacity:1;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       x="-390.14029"
-       y="19.572212"
-       id="text16973"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan16971"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:scientifica;-inkscape-font-specification:'scientifica Medium';text-align:start;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-         x="-390.14029"
-         y="19.572212">pabo</tspan></text>
+    <g
+       id="g4828"
+       transform="translate(0,186.12443)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.405px;font-family:'Kirang Haerang';-inkscape-font-specification:'Kirang Haerang';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="-205.45891"
+         y="126.72562"
+         id="text14792"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan14790"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:scientifica;-inkscape-font-specification:'scientifica Medium';text-align:start;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+           x="-205.45891"
+           y="126.72562">Binary parsing for dummies!</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.405px;font-family:'Kirang Haerang';-inkscape-font-specification:'Kirang Haerang';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="-203.73152"
+         y="126.1265"
+         id="text4778"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan4776"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:scientifica;-inkscape-font-specification:'scientifica Medium';text-align:start;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+           x="-203.73152"
+           y="126.1265">Binary parsing for dummies!</tspan></text>
+    </g>
+    <g
+       id="g4794"
+       transform="matrix(1.5745574,0,0,1.5745574,-2.0510602,-2.7264814)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.7651px;font-family:'Kirang Haerang';-inkscape-font-specification:'Kirang Haerang';text-align:center;text-anchor:middle;opacity:1;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="-43.215786"
+         y="19.572212"
+         id="text16973"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan16971"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:scientifica;-inkscape-font-specification:'scientifica Medium';text-align:start;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+           x="-43.215786"
+           y="19.572212">pabo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.7651px;font-family:'Kirang Haerang';-inkscape-font-specification:'Kirang Haerang';text-align:center;text-anchor:middle;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="-42.686619"
+         y="18.513878"
+         id="text4782"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan4780"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:scientifica;-inkscape-font-specification:'scientifica Medium';text-align:start;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+           x="-42.686619"
+           y="18.513878">pabo</tspan></text>
+    </g>
   </g>
 </svg>
