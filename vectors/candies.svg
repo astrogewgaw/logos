@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="500"
+   viewBox="0 0 1500 500"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="candies.svg"
+   inkscape:export-filename="../rasters/candies.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.58595582"
+     inkscape:cx="669.84572"
+     inkscape:cy="158.71504"
+     inkscape:window-width="1918"
+     inkscape:window-height="1078"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       id="rect1"
+       width="1500"
+       height="500"
+       x="0"
+       y="0"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <g
+       id="g4"
+       transform="translate(2.3508118e-5)">
+      <text
+         xml:space="preserve"
+         style="font-size:321.372px;line-height:889.956px;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;text-anchor:end;fill:#ff0000;stroke:#ffffff;stroke-width:1.51819;stroke-dasharray:none"
+         x="1378.9249"
+         y="323.95132"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="1378.9249"
+           y="323.95132"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CANDYDAY BW PERSONAL USE';-inkscape-font-specification:'CANDYDAY BW PERSONAL USE';fill:#ff0000;stroke:#ff0000;stroke-width:1.51819;stroke-dasharray:none">CANDIES</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:88.6157px;font-family:'CANDYDAY BW PERSONAL USE';-inkscape-font-specification:'CANDYDAY BW PERSONAL USE';text-align:end;text-anchor:end;fill:#d40000;stroke:#d40000;stroke-width:1;stroke-dasharray:none"
+         x="1153.8392"
+         y="416.39737"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="1153.8392"
+           y="416.39737"
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:32px;line-height:88.6157px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font Ultra-Bold Italic';fill:#d40000;stroke:#d40000"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font Ultra-Bold'"
+   id="tspan3"> : </tspan>https://github.com/astrogewgaw/candies</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:37.3333px;line-height:103.385px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font Ultra-Bold';text-align:end;text-anchor:end;fill:#ff0000;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+         x="1020.4984"
+         y="372.86783"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="1020.4984"
+           y="372.86783"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:103.385px;font-family:'CANDYDAY BW PERSONAL USE';-inkscape-font-specification:'CANDYDAY BW PERSONAL USE';fill:#d40000;stroke:#d40000;stroke-width:1;stroke-dasharray:none">Sweet, sweet candy-dates!</tspan></text>
+    </g>
+  </g>
+</svg>
