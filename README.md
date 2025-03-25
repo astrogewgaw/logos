@@ -3,7 +3,7 @@
 # logos
 
 <br/><br/>
-<img src = "./rasters/logos.png" alt="logos" align="center">
+<img src = "./logos/logos.png" alt="logos" align="center">
 <br/><br/>
 
 ![License][license]
@@ -17,11 +17,15 @@
 
 This repository is an open-source, version-controlled store for logos that I have designed for my own projects, such as:
 
-* [**priwo**][priwo]
-* [**koshka**][koshka]
-* [**whoswho**][whoswho]
+* [**`priwo`**][priwo]
+* [**`candies`**][candies]
+* [**`arachne`**][arachne]
+* [**`pabo`**][pabo]
+* [**`spacetar`**][spacetar]
+* [**`koshka`**][koshka]
+* [**`whoswho`**][whoswho]
 
-and others.
+as well as others, such as the logo for the [**SPOTLIGHT**][spotlight] project.
 
 ### Licensing
 
@@ -31,8 +35,13 @@ All of these logos are licensed under the [**CC-BY-SA-4.0**](LICENSE) license. P
 
 [gitmoji]: https://gitmoji.dev
 [whoswho]: https://whoswho.astrogewgaw.com
+[pabo]: https://github.com/astrogewgaw/pabo
 [priwo]: https://github.com/astrogewgaw/priwo
+[spotlight]: https://spotlight.ncra.tifr.res.in
 [koshka]: https://github.com/astrogewgaw/koshka
+[candies]: https://github.com/astrogewgaw/candies
+[arachne]: https://github.com/astrogewgaw/arachne
+[spacetar]: https://github.com/astrogewgaw/spacetar
 [license]: https://img.shields.io/github/license/astrogewgaw/logos?style=for-the-badge
 [gitmoji-badge]: https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge
 [compats]: https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses
