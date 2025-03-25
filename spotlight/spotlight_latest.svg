@@ -6366,7 +6366,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1">
+     inkscape:current-layer="svg1">
     <inkscape:page
        x="0"
        y="0"
@@ -6383,7 +6383,7 @@
   <path
      id="path2"
      d="M 0,1.25e-5 H 2000 V 500 H 0 V 1.25e-5"
-     style="display:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.133333"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.133333"
      inkscape:label="Background"
      sodipodi:insensitive="true" />
   <g
